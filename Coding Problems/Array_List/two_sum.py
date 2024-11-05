@@ -1,4 +1,4 @@
-from numpy.ma.core import indices
+from numpy import indices
 
 
 def tow_sum(nums,target):
